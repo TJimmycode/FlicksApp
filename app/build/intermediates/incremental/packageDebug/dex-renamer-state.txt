@@ -1,0 +1,7 @@
+#Sat Jul 22 15:02:08 EDT 2017
+base.0=C\:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc7245e58c13ba8fa9491d860c3e018a67cf2cab
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a14a105f2657056276b99feb562897223ea0bd5\\classes.dex
+base.1=C\:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3a14a105f2657056276b99feb562897223ea0bd5
+file.0=C\:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bc7245e58c13ba8fa9491d860c3e018a67cf2cab\\classes.dex

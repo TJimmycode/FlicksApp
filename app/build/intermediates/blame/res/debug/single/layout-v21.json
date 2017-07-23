@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\tt\\.android\\build-cache\\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\tt\\.android\\build-cache\\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\tt\\.android\\build-cache\\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\tt\\.android\\build-cache\\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

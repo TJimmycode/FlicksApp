@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\9e94fdd08cd8965ab7338d52919b3d469b4fbc5d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9199cb9edb95cc98a6e2477799741e3d2ba85193\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\2a08480ae5c443f572f23c36d744314d8298189d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_456a9623e1a46a27af3e9daffb3ec5d1ca953517\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\9e94fdd08cd8965ab7338d52919b3d469b4fbc5d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_9199cb9edb95cc98a6e2477799741e3d2ba85193.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_f1a5e2d9e12c89d7dee576a7b90322b57110f507\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\2a08480ae5c443f572f23c36d744314d8298189d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_456a9623e1a46a27af3e9daffb3ec5d1ca953517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha7_f1a5e2d9e12c89d7dee576a7b90322b57110f507.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8738f8940ed11796057bee934bfb518330b17207">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bc7245e58c13ba8fa9491d860c3e018a67cf2cab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\c4e2aa3d3c21b3e5cce00714e22baae81087b9df\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_912a2cf66df9484b2d2906e554ad486fe2dd4d0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_95eea922e76dec700fc086b7a34e193851374cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\c4e2aa3d3c21b3e5cce00714e22baae81087b9df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_912a2cf66df9484b2d2906e554ad486fe2dd4d0f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\cbe3430246bce07aad7a04b47f03d025e6900405\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b7ff6f35c516b99414dec443ca1a4b09acbd8e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_44ba8fbc2fe77e0d373c19dbbcc30f6d1ffbd823\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_34cbc96a1224972b100ed095c63d3d2e85466452.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\ffc890cc822ce7cc613bc1f4ccfea47e400510f7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_34cbc96a1224972b100ed095c63d3d2e85466452\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\cbe3430246bce07aad7a04b47f03d025e6900405\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_7b7ff6f35c516b99414dec443ca1a4b09acbd8e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\c8471560d69239808420fd4dd8faad5be08b35dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_6152c99b95a46882a96e68f73dd4756894c475a7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\c8471560d69239808420fd4dd8faad5be08b35dd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6152c99b95a46882a96e68f73dd4756894c475a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\17e03ab4b7eff57ba3696b1eb6bfd6886a65a53a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_e8b337d48442a072bfc93563afcf3b298b9342e9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\45fd1b2889e9e874f06447de4a38e7afa8b1bd07\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61c5f110836a67900b8600fbb8e87c657fd76425\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\45fd1b2889e9e874f06447de4a38e7afa8b1bd07\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_61c5f110836a67900b8600fbb8e87c657fd76425.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_4680f0e4bc3125178f0ab5505d7a4a6acd14112c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4680f0e4bc3125178f0ab5505d7a4a6acd14112c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\587a7f6f9f3d670d47897eef7c84153c47204636\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba0179a48fc4bac89ebc6eeece9926b3f3964e13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_00b970ef0dc5ee10a604fcc28c71b70001be7155\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\a55c464b6e9509a40783b56c328e54392adef3f4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e139388f4a3b7037f2c8c557d36516961a675282\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3a14a105f2657056276b99feb562897223ea0bd5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\587a7f6f9f3d670d47897eef7c84153c47204636\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_ba0179a48fc4bac89ebc6eeece9926b3f3964e13.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tt\.android\build-cache\17e03ab4b7eff57ba3696b1eb6bfd6886a65a53a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8b337d48442a072bfc93563afcf3b298b9342e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tt\.android\build-cache\a55c464b6e9509a40783b56c328e54392adef3f4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\tt\AndroidStudioProjects\FlicksApp\app\build\intermediates\pre-dexed\debug\classes_e139388f4a3b7037f2c8c557d36516961a675282.jar" />
+    </item>
+
+</items>

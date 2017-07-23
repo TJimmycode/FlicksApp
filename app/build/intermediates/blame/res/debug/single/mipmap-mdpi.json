@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\tt\\AndroidStudioProjects\\FlicksApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    }
+]
